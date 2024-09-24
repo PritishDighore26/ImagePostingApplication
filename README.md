@@ -29,5 +29,6 @@ The homepage of the Image Posting Application is an Image Gallery where users ca
 + There is a "Delete" button for removing the image or individual comments.
 The design features a clean, minimalistic layout with intuitive buttons, creating a user-friendly experience for browsing and interacting with images.
 
-![Screenshot (329)](https://github.com/user-attachments/assets/343ca7fe-69a8-439a-8a69-c1d8929db7a2)
+![Screenshot 2024-09-24 211811](https://github.com/user-attachments/assets/c97aace7-566a-4a73-b6e2-311e21526f21)
+
 
