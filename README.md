@@ -30,5 +30,7 @@ The homepage of the Image Posting Application is an Image Gallery where users ca
 The design features a clean, minimalistic layout with intuitive buttons, creating a user-friendly experience for browsing and interacting with images.
 
 ![Screenshot 2024-09-24 211811](https://github.com/user-attachments/assets/c97aace7-566a-4a73-b6e2-311e21526f21)
+![Screenshot 2024-09-24 213241](https://github.com/user-attachments/assets/7b424d9d-0cec-45e1-8ed6-281106df2ad6)
+![Screenshot 2024-09-24 213255](https://github.com/user-attachments/assets/0a59ba7d-4349-4932-a89d-b4d2ef19146d)
 
 
